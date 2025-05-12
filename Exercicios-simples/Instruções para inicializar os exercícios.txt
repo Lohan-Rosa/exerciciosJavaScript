@@ -1,0 +1,7 @@
+1 - Baixe e instale o node e o Visual Studio Code
+2 - Abra o Visual Studio Code, localize a opção "terminal", clique nela e abra um novo terminal
+3 - Instale o prompt-sync pelo terminal com o seguinte comando; npm install prompt-sync
+4 - Descompacte na área de trabalho o arquivo Exercícios-simples.rar
+5 - Abra o Visual Studio Code, clique em "Arquivo" no canto superior esquerdo
+6 - Localize na área de trabalho a pasta "Exercícios-simples" já descompactada e abra ela
+7 - inicialize o exercício que deseja com o seguinte comando; node .\Exercícios-simples\15-fibonacci.js
